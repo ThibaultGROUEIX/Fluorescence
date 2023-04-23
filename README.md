@@ -3,10 +3,14 @@
 ![typical image](typical_image.png)
 <!-- List of todos -->
 
-* create requirements.txt 
-* create a package
-* create install instructions
-* deploy the package
+This python package is for computing simple image statistics of fluorescence images captured by the Fluopam device.
+
+## TODO 
+
+* create requirements.txt [ ]
+* create a package [ ]
+* create install instructions [ ]
+* deploy the package [ ]
 
 
 ### Citing this work
